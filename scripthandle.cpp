@@ -1,0 +1,1 @@
+#include <angelscript/scripthandle/scripthandle.cpp>

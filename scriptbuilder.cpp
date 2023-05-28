@@ -1,0 +1,1 @@
+#include <angelscript/scriptbuilder/scriptbuilder.cpp>

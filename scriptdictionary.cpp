@@ -1,0 +1,1 @@
+#include <angelscript/scriptdictionary/scriptdictionary.cpp>

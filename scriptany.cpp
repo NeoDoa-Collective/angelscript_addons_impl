@@ -1,0 +1,1 @@
+#include <angelscript/scriptany/scriptany.cpp>
